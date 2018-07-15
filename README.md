@@ -7,9 +7,12 @@ Steps:
 1. Clone the code.
 2. Import the clone into intelije IDEA with Maven auto-import option enabled.
 3. We need to install following tool as pre-requisite.
-    NOTE: My OS version : macOS Sierra 10.12.6 
-      Appium Desktop : v1.2.7
-      Xcode : v8.0
+     
+     NOTE: My OS version : macOS Sierra 10.12.6 
+       
+       Appium Desktop : v1.2.7 
+       
+       Xcode : v8.0
 4. Execute using "AlertViewsPageTest.java".
 
 Reference :
